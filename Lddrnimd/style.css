@@ -1,0 +1,23 @@
+h4 {
+    text-align: center;
+}
+
+img {
+    width: 50%;
+    height: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+ }
+
+.p {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.audio {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    vertical-align: center;
+}
